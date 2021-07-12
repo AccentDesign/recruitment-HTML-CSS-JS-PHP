@@ -38,6 +38,7 @@ The programming challenge exists in 2 parts:
 ## Questions
 
 - What libraries did you add to the frontend? What are they used for?
+- How long did you spend completing the test?
 - If you had more time, what further improvements or new features would you add?
 - Which parts are you most proud of? And why?
 - Which parts did you spend the most time with? What did you find most difficult?
