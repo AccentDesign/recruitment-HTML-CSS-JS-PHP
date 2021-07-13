@@ -12,7 +12,7 @@ The programming challenge is in 2 parts:
 - Part A: HTML + CSS
 - Part B: PHP + Javascript
 
-### PART A: HTML + CSS
+### Part A: HTML + CSS
 
 ![front-end_visual_screen](front-end_visual_screen.png)
 
@@ -21,7 +21,7 @@ We would like you to:
 - Style the layout consistently and beautifully, adhering as closely to the design as possible.
 - You are free to use any preprocessor you wish or write raw CSS, but we place great importance on using utility-driven CSS classes to create re-usable code, so please show us that you can do this.
 
-### PART B: PHP + Javascript
+### Part B: PHP + JavaScript
 
 – Use PHP to process the supplied serialised data (front-end_data.txt) into a JSON format that can be consumed by JavaScript.
 - Use JavaScript to display the details of each card, including:
