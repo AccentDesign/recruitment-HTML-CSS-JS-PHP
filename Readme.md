@@ -23,7 +23,7 @@ We would like you to:
 
 ### Part B: PHP + JavaScript
 
-– Use PHP to process the supplied serialised data (front-end_data.txt) into a JSON format that can be consumed by JavaScript.
+- Use PHP to process the supplied serialised data (front-end_data.txt) into a JSON format that can be consumed by JavaScript.
 - Use JavaScript to display the details of each card, including:
   - Name 
   - Description
