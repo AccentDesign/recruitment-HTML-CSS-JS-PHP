@@ -1,7 +1,7 @@
 Accent Design Front End Technical Test
 ======================================
 
-Thanks for your interest in the role of front-end web developer at Accent Design. We are looking for an experienced full stack developer with skills in HTML, CSS/SCSS and JavaScript, and with good communication skills, to join our established team developing websites, web-based software systems and mobile apps. The successful candidate will join the team on a full-time basis at our studio in Norwich, UK, or as a remote worker. We are a small team, so you will be be a big part of it. Your voice will be heard and you will be expected to take on jobs outside of your comfort zone.
+Thanks for your interest in the role of front-end web developer at Accent Design. We are looking for an experienced full stack developer with skills in HTML, CSS/SCSS and JavaScript, and with good communication skills, to join our established team developing websites, web-based software systems and mobile apps. The successful candidate will join the team on a full-time basis either as a remote worker, or at our studio in Norwich, UK. We are a small team, so you will be a big part of it. Your voice will be heard and you will be expected to take on jobs outside of your comfort zone.
 
 If you think you are up for it, then we would like you to spend 2-3 hours having a go at our front end technical test...
 
@@ -46,7 +46,6 @@ We would like you to:
 - Don’t overcomplicate the JavaScript part of the task.  We just want to see that you know how to write basic JS. 
 - We advise spending at least 2-3 hours on the test – if you want to spend more or less time on it, that’s completely up to you.
 
-
 ## Technical Questions
 
 Please take some time to answer the following questions, which are an important part of the test:
@@ -57,21 +56,6 @@ Please take some time to answer the following questions, which are an important 
 - Which parts are you most proud of? And why?
 - Which parts did you spend the most time with? What did you find most difficult?
 - How did you find the test overall? Did you have any issues or have difficulties completing it? If you have any suggestions on how we can improve the test, we'd love to hear them.
-
-## Additional Instructions
-
-- Download the repository
-
-- After you're done, send us your code
-- Leave comments on our repository where you were not sure how to properly proceed
-- Implementations without a README will be automatically rejected
-- No pull requests
-- ES6 and above
-- PHP 7.4 and above
-
-Please email your code and answers to the technical questions, plus anything else you'd like to tell us, to jobs@accentdesign.co.uk or upload it to DropBox or Google Drive (or similar) and send us a link. If you have any questions about the test, you are also welcome to email those to jobs@accentdesign.co.uk.
-
-Thanks for your time – we look forward to hearing from you!
 
 ## Bonus Points
 
@@ -85,3 +69,9 @@ Thanks for your time – we look forward to hearing from you!
 - The clean, organised website directory structure
 - Basic knowledge of DevOps
 - Knowledge of Docker
+
+## Submitting Your Solution
+
+Please email your code and answers to the technical questions, plus anything else you'd like to tell us, to jobs@accentdesign.co.uk or upload it to DropBox or Google Drive (or similar) and send us a link. If you have any questions about the test, you are also welcome to email those to jobs@accentdesign.co.uk.
+
+Thanks for your time – we look forward to hearing from you!
